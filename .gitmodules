@@ -1,0 +1,18 @@
+[submodule "multi_car_localization"]
+	path = multi_car_localization
+	url = https://github.com/mit-drl/multi_car_localization
+[submodule "multi_car_msgs"]
+	path = multi_car_msgs
+	url = https://github.com/mit-drl/multi_car_msgs
+[submodule "pozyx_comm"]
+	path = pozyx_comm
+	url = https://github.com/mit-drl/pozyx_comm
+[submodule "gps_umd"]
+	path = gps_umd
+	url = https://github.com/mit-drl/gps_umd
+[submodule "particle_filter"]
+	path = particle_filter
+	url = https://github.com/mit-drl/particle_filter
+[submodule "canopy_client"]
+	path = canopy_client
+	url = https://github.com/canopy-ros/canopy_client
